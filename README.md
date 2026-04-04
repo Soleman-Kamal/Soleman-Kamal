@@ -16,4 +16,5 @@ Front-End Developer passionate about building modern web interfaces.
 - [Gaza Bites – Restaurant Website](https://soleman-kamal.github.io/Gaza-Bites/) – Restaurant UI website
 
 ## 📫 Contact Me
-- GitHub: https://github.com/Soleman-Kamal
+- 💻 GitHub: https://github.com/Soleman-Kamal
+- 🔗 LinkedIn: https://www.linkedin.com/in/soleman-kamal-752483355/
