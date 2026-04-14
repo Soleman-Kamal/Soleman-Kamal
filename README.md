@@ -7,7 +7,7 @@ Front-End Developer passionate about building modern web interfaces.
 - HTML
 - CSS
 - JavaScript
-- React (learning)
+- React
 
 ## 📂 Projects
 - [Portfolio Website](https://soleman-kamal.github.io/portfolio-new/) – Personal portfolio website
