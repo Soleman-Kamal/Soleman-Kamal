@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Soleman
 
 ## 🚀 About Me
-Front-End Developer passionate about building modern web interfaces.
+Front-End Developer focused on building responsive and modern web interfaces using HTML, CSS, JavaScript, Tailwind, and React.
+I specialize in converting designs into clean, fast, and user-friendly websites.
 
 ## 🛠 Skills
 - HTML
