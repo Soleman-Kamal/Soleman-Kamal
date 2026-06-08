@@ -14,7 +14,7 @@ I specialize in converting designs into clean, fast, and user-friendly websites.
 ## 📂 Projects
 - [Portfolio Website](https://soleman-kamal.github.io/portfolio/) – Personal responsive portfolio with modern UI
 - [Academic Platform](https://soleman-kamal.github.io/academic-platform/) – Educational platform UI with clean design
-- [Shop Hub](https://soleman-kamal.github.io/shop-hub/) – E-commerce interface with product listing and filtering
+- [NovaCart](https://soleman-kamal.github.io/shop-hub/) – E-commerce interface with product listing and filtering
 - [Gaza Bites – Restaurant Website](https://soleman-kamal.github.io/Gaza-Bites/) – Restaurant website with modern layout
 
 ## 📫 Contact Me
