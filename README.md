@@ -50,12 +50,12 @@
 
 ## ⭐ Featured Projects
 
-- 🌐 Portfolio Website
-- 🎓 Educational Platform
-- 🛒 NovaCart E-Commerce
-- 🍽 Restaurant Website
+- 🌐 Portfolio Website [Portfolio Website](https://soleman-portfolio.vercel.app/) – Personal responsive portfolio with modern UI
+- 🎓 Educational Platform [Academic Platform](https://soleman-kamal.github.io/academic-platform/) – Educational platform UI with clean design
+- 🛒 NovaCart E-Commerce [NovaCart](https://soleman-kamal.github.io/shop-hub/) – E-commerce interface with product listing and filtering
+- 🍽 Restaurant Website [Flavor House – Restaurant Website](https://soleman-kamal.github.io/Gaza-Bites/) – Restaurant website with modern layout
 
----
+
 
 ## 📫 Connect With Me
 
