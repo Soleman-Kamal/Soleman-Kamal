@@ -52,13 +52,15 @@
 
 - 🛍️ [ECCO E-Commerce](https://ecco-ecommerce-five.vercel.app/) – Modern fashion e-commerce application built with Next.js and TypeScript
 
-- 🌐 [Portfolio Website](https://soleman-portfolio.vercel.app/) – Personal responsive portfolio with modern UI
+- 📊 [Balancely ERP](https://balancely-erp.vercel.app/) – Modern financial management dashboard built with React.js, featuring analytics, revenue and expense tracking, transactions, invoices, and responsive UI
 
-- 🎓 [Educational Platform](https://soleman-kamal.github.io/academic-platform/) – Educational platform UI with clean design
+- 🌐 [Portfolio Website](https://soleman-portfolio.vercel.app/) – Personal responsive portfolio showcasing my projects and front-end development work
+
+- 🎓 [Educational Platform](https://soleman-kamal.github.io/academic-platform/) – Educational platform UI with clean and responsive design
 
 - 🛒 [NovaCart E-Commerce](https://soleman-kamal.github.io/shop-hub/) – E-commerce interface with product listing and filtering
 
-- 🍽️ [Flavor House – Restaurant Website](https://soleman-kamal.github.io/Gaza-Bites/) – Restaurant website with modern layout
+- 🍽️ [Flavor House – Restaurant Website](https://soleman-kamal.github.io/Gaza-Bites/) – Restaurant website with a modern responsive layout
 
 ---
 
