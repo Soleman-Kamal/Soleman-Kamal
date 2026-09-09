@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soleman Kamal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=D6A84F&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Modern+Web+Interfaces;Clean+%26+Responsive+Websites" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=D6A84F&center=true&vCenter=true&width=750&lines=Front-End+Developer;Next.js+%26+React+Developer;TypeScript+Developer;Building+Modern+Web+Interfaces;Clean+%26+Responsive+Web+Applications" />
 </p>
 
 <p align="center">
@@ -17,16 +17,16 @@
 
 ## 🚀 About Me
 
-💻 Front-End Developer passionate about building modern and responsive websites.
+💻 Front-End Developer focused on building modern, responsive, and user-friendly web applications.
 
-🎯 Specialized in converting Figma designs into clean HTML, CSS, JavaScript and React applications.
+🎯 Specialized in Next.js, React, TypeScript, and Tailwind CSS, turning designs and ideas into clean, production-ready interfaces.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,git,github,vscode,figma" />
 </p>
 
 ---
@@ -50,12 +50,17 @@
 
 ## ⭐ Featured Projects
 
-- 🌐  [Portfolio Website](https://soleman-portfolio.vercel.app/) – Personal responsive portfolio with modern UI
-- 🎓  [Educational Platform](https://soleman-kamal.github.io/academic-platform/) – Educational platform UI with clean design
-- 🛒  [NovaCart E-Commerce](https://soleman-kamal.github.io/shop-hub/) – E-commerce interface with product listing and filtering
-- 🍽   [Flavor House – Restaurant Website](https://soleman-kamal.github.io/Gaza-Bites/) – Restaurant website with modern layout
+- 🛍️ [ECCO E-Commerce](https://ecco-ecommerce-five.vercel.app/) – Modern fashion e-commerce application built with Next.js and TypeScript
 
+- 🌐 [Portfolio Website](https://soleman-portfolio.vercel.app/) – Personal responsive portfolio with modern UI
 
+- 🎓 [Educational Platform](https://soleman-kamal.github.io/academic-platform/) – Educational platform UI with clean design
+
+- 🛒 [NovaCart E-Commerce](https://soleman-kamal.github.io/shop-hub/) – E-commerce interface with product listing and filtering
+
+- 🍽️ [Flavor House – Restaurant Website](https://soleman-kamal.github.io/Gaza-Bites/) – Restaurant website with modern layout
+
+---
 
 ## 📫 Connect With Me
 
