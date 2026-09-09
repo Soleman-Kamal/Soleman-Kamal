@@ -31,15 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soleman-Kamal&show_icons=true&theme=transparent"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soleman-Kamal&layout=compact&theme=transparent"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
