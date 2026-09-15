@@ -54,7 +54,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/soleman-kamal-752483355/">LinkedIn</a> •
-<a href="https://soleman-kamal.vercel.app/">Portfolio</a> •
+<a href="[https://soleman-kamal.vercel.app/](https://soleman-portfolio.vercel.app/)">Portfolio</a> •
 <a href="mailto:solemansheikh2004@gmail.com">Email</a>
 </p>
 
